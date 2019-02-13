@@ -1,0 +1,25 @@
+{
+  "name": "mern-boilerplate",
+  "version": "1.0.0",
+  "description": "MERN Boilerplate with Redux and JWT Token",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharad-ghimire/mern-boilerplate.git"
+  },
+  "author": "Sharad Ghimire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharad-ghimire/mern-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sharad-ghimire/mern-boilerplate#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.11",
+    "passport": "^0.4.0"
+  }
+}
